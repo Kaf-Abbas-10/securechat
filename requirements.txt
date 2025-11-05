@@ -3,3 +3,4 @@ PyMySQL
 python-dotenv
 pydantic
 rich
+pycryptodome>=3.20.0

@@ -1,0 +1,3 @@
+{"event": "dh", "shared_key_sha": "adc2646c7705a031..."}
+{"event": "msg_sent", "seqno": 1, "cipher": "MwNT5Ny2EwmfCDAz+uA9D1oq9xAjjnb/W4hz97leOzo="}
+{"event": "server_resp", "data": {"type": "ack", "status": "ok", "ts": 1762341621853}}
